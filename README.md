@@ -128,7 +128,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monumarquis&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="m-sehrawat" height="139" />
 </p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monumarquis&" alt="monumarquis" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monumarquis&show_icons=true&locale=en&theme=dark" alt="monumarquis" /></p>
 
 
 
