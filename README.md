@@ -147,7 +147,7 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shivshankar0965&repo=dusty-jewel-3645&locale=en&border_radius=0&theme=radical" alt="m-sehrawat" />
     </a>
     <a href="https://github.com/monumarquis/miscreant-river-2782">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monumarquis&repo=Indeigogo-Clone&locale=en&border_radius=0&theme=radical" alt="m-sehrawat" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monumarquis&repo=Indiegogo-Clone&locale=en&border_radius=0&theme=radical" alt="m-sehrawat" />
     </a>
     <!-- 
     <a href="https://github.com/m-sehrawat/Translation-App">
