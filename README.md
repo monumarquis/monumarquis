@@ -72,7 +72,7 @@
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=fabbag-Clone&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="fabbag-Clone" />
     </a>
     <a href="https://github.com/shivshankar0965/dusty-jewel-3645" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=booking Store-Clone&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Mini-Store" />
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Booking Store-Clone&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Mini-Store" />
     </a>
     <a href="https://github.com/monumarquis/Indeigogo-Clone" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Crowd funding App -Clone&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Weather-App" />
@@ -141,13 +141,13 @@
 
 <p>
     <a href="https://github.com/monumarquis/crazy-name-9363">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monumarquis&repo=crazy-name-9363&locale=en&border_radius=0&theme=radical" alt="m-sehrawat" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monumarquis&repo=Fabbag-Clone&locale=en&border_radius=0&theme=radical" alt="m-sehrawat" />
     </a>
     <a href="https://github.com/shivshankar0965/dusty-jewel-3645">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shivshankar0965&repo=dusty-jewel-3645&locale=en&border_radius=0&theme=radical" alt="m-sehrawat" />
     </a>
     <a href="https://github.com/monumarquis/miscreant-river-2782">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monumarquis&repo=miscreant-river-2782&locale=en&border_radius=0&theme=radical" alt="m-sehrawat" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monumarquis&repo=Indeigogo-Clone&locale=en&border_radius=0&theme=radical" alt="m-sehrawat" />
     </a>
     <!-- 
     <a href="https://github.com/m-sehrawat/Translation-App">
