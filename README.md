@@ -139,13 +139,13 @@
 
 
 <p>
-    <a href="https://github.com/m-sehrawat/Nike-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Nike-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+    <a href="https://github.com/monumarquis/crazy-name-9363">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monumarquis&repo=crazy-name-9363&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
     </a>
-    <a href="https://github.com/m-sehrawat/Mini-Store">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Mini-Store&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+    <a href="https://github.com/shivshankar0965/dusty-jewel-3645">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shivshankar0965&repo=dusty-jewel-3645&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
     </a>
-    <a href="https://github.com/m-sehrawat/Weather-App">
+<!--     <a href="https://github.com/m-sehrawat/Weather-App">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Weather-App&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
     </a>
     <a href="https://github.com/m-sehrawat/Translation-App">
@@ -162,6 +162,6 @@
     </a>
     <a href="https://github.com/m-sehrawat/Adidas-Clone">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Adidas-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>
+    </a> -->
     
 </p>
