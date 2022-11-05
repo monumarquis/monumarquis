@@ -77,9 +77,9 @@
     <a href="https://github.com/monumarquis/miscreant-river-2782" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Crowd funding App -Clone&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Weather-App" />
     </a>
-   <a href="https://github.com/m-sehrawat/Translation-App" target="blank">
+<!--    <a href="https://github.com/m-sehrawat/Translation-App" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Translation App&color=840010&logo=Signal&logoColor=FFFFFF&label=" alt="Translation-App" />
-    </a>
+    </a> -->
     <!---
     <a href="https://github.com/m-sehrawat/Facebook-Clone" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook Cone&color=1a78f4&logo=facebook&logoColor=FFFFFF&label=" alt="Facebook-Clone" />
