@@ -126,8 +126,8 @@
 <h2><i>My GitHub Stats</i></h2>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=monumarquis&show_icons=true&locale=en&theme=radical" alt="monumarquis" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monumarquis&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=radical" alt="m-sehrawat" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monumarquis&layout=compact&show_icons=true&theme=radical" alt="monumarquis" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=monumarquis&show_icons=true&theme=radical" alt="monumarquis" height="139" />
 </p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monumarquis&show_icons=true&locale=en&theme=radical" alt="monumarquis" /></p>
@@ -141,13 +141,13 @@
 
 <p>
     <a href="https://github.com/monumarquis/crazy-name-9363">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monumarquis&repo=Fabbag-Clone&locale=en&border_radius=0&theme=radical" alt="m-sehrawat" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monumarquis&repo=Fabbag-Clone&border_radius=0&theme=radical" alt="monumarquis" />
     </a>
     <a href="https://github.com/shivshankar0965/dusty-jewel-3645">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shivshankar0965&repo=dusty-jewel-3645&locale=en&border_radius=0&theme=radical" alt="m-sehrawat" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shivshankar0965&repo=dusty-jewel-3645&border_radius=0&theme=radical" alt="monumarquis" />
     </a>
     <a href="https://github.com/monumarquis/miscreant-river-2782">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monumarquis&repo=Indiegogo-Clone&locale=en&border_radius=0&theme=radical" alt="m-sehrawat" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monumarquis&repo=Indiegogo-Clone&border_radius=0&theme=radical" alt="monumarquis" />
     </a>
     <!-- 
     <a href="https://github.com/m-sehrawat/Translation-App">
