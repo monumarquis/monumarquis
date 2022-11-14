@@ -104,16 +104,16 @@
 
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/monu-yadav-2003m" target="_blank">
+    <a href="https://www.linkedin.com/in/monu-yadav-2003m" target="blank">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/monu-yadav-2003m" />
     </a>
-    <a href="https://twitter.com/MonuMarquis" target="_blank">
+    <a href="https://twitter.com/MonuMarquis" target="blank">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/MonuMarquis" />
     </a>
-    <a href="https://monumarquis.github.io/" target="_blank">
+    <a href="https://monumarquis.github.io/" target="blank">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://monumarquis.github.io/" />
     </a>
-    <a title="monumarquis@gmail.com" href="mailto:monumarquis@gmail.com" target="_blank">
+    <a  href="mailto:monumarquis@gmail.com" target="blank">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="monumarquis@gmail.com" />
     </a>
 </p>
