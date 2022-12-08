@@ -78,8 +78,8 @@
     <a href="https://github.com/shivshankar0965/dusty-jewel-3645" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Booking Store-Clone&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Mini-Store" />
     </a>
-    <a href="https://github.com/monumarquis/Indeigogo-Clone" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Crowd funding App -Clone&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Weather-App" />
+    <a href="https://github.com/monumarquis/mine-youtube" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mini-Youtube&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Weather-App" />
     </a>
    <a href="https://github.com/monumarquis/emailChimp-Clone" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Store App&color=840010&logo=Signal&logoColor=FFFFFF&label=" alt="Translation-App" />
@@ -145,16 +145,16 @@
 
 
 <p>
-    <a href="https://github.com/monumarquis/crazy-name-9363">
+    <a href="https://github.com/monumarquis/Fabbag-Clone">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monumarquis&repo=Fabbag-Clone&border_radius=0&theme=radical" alt="monumarquis" />
     </a>
     <a href="https://github.com/shivshankar0965/dusty-jewel-3645">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shivshankar0965&repo=dusty-jewel-3645&border_radius=0&theme=radical" alt="monumarquis" />
     </a>
-    <a href="https://github.com/monumarquis/miscreant-river-2782">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monumarquis&repo=Indiegogo-Clone&border_radius=0&theme=radical" alt="monumarquis" />
+    <a href="https://github.com/monumarquis/mine-youtube">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monumarquis&repo=mine-youtube&border_radius=0&theme=radical" alt="monumarquis" />
     </a>
-     <a href="https://github.com/monumarquis/miscreant-river-2782">
+     <a href="https://github.com/monumarquis/emailChimp-Clone2">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monumarquis&repo=emailChimp-Clone&border_radius=0&theme=radical" alt="monumarquis" />
     </a>
   
