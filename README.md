@@ -136,7 +136,8 @@
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monumarquis&show_icons=true&locale=en&theme=radical" alt="monumarquis" /></p>
 <a href="http://www.github.com/monumarquis">
-  <img src="https://activity-graph.herokuapp.com/graph?username=monumarquis&bg_color=10011c&color=ffffff&line=e802af&point=70b9e6&area=true&hide_border=true" alt="GitHub Commits Graph" /></a>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=monumarquis&point=f007d8&line=f0cd07&area_color=310938&theme=react-dark" alt="GitHub Commits Graph" />
+</a>
 
 
 <!----------------------------------- Top Repository Section ------------------------------------>
