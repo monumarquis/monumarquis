@@ -154,7 +154,7 @@
     <a href="https://github.com/monumarquis/mine-youtube">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monumarquis&repo=mine-youtube&border_radius=0&theme=radical" alt="monumarquis" />
     </a>
-     <a href="https://github.com/monumarquis/emailChimp-Clone2">
+     <a href="https://github.com/monumarquis/emailChimp-Clone">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monumarquis&repo=emailChimp-Clone&border_radius=0&theme=radical" alt="monumarquis" />
     </a>
   
