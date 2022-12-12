@@ -84,9 +84,11 @@
     <a href="https://github.com/shivshankar0965/dusty-jewel-3645" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Booking Store-Clone&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Mini-Store" />
     </a>
-   
-  
-    <!---
+</p>
+<br>
+
+
+ <!---
     <a href="https://github.com/m-sehrawat/Facebook-Clone" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook Cone&color=1a78f4&logo=facebook&logoColor=FFFFFF&label=" alt="Facebook-Clone" />
     </a>
@@ -99,11 +101,6 @@
     <a href="https://github.com/m-sehrawat/Adidas-Clone" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adidas Clone&color=000000&logo=Adidas&logoColor=FFFFFF&label=" alt="Adidas-Clone" />
     </a> -->
-</p>
-<br>
-
-
-
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
 <h2><i>Let's Connect</i></h2>
