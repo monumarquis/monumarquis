@@ -6,14 +6,30 @@
     I'm Monu Yadav
     <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
 </h1>
+<h3>
+    <i>- >A passionate frontend developer from India.I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code</i>
+</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=monumarquis&label=Profile%20views&color=0e75b6&style=flat" alt="shubhojeet1" /> </p>
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhojeet1" alt="shubhojeet1" /></a> </p> -->
+
+- 🔭 I’m currently working on **Google Authentication**
+
+- 🌱 I’m currently learning **MERN Stack**
+
+- 👨‍💻 Portfolio [https://monumarquis.github.io/](https://shubhojeet1.github.io)
+
+- 💬 Ask me about **HTML, Advance CSS, VanillaJS, ReactJs**
+
+- 📫 How to reach me **monumarquis@gmail.com**
+- <h2><a href="https://drive.google.com/uc?export=download&id=18Pxv_xnL2onLThvIK8ofNl5vKKuN1DND">📜 Download_Resume</a></h2>
 
 
 
 <!----------------------------------- About Section ------------------------------------>
 
-<h3>
-    <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
-</h3>
 
 <!-- <h3>
     <i>- Currently working at Kyndryl as a Full Stack Developer</i>
