@@ -87,38 +87,23 @@
 
 
 <p align="left">
-       
-<!--     <a href="https://github.com/suFi7867/gym.com" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GYM.com&color=7A1FA2&logo=foodpanda&logoColor=FFFFFF&label=" alt="gym.com" />
+     <a href="https://github.com/suFi7867/gym.com" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GYM-Store&color=E60012&logo=stadia&logoColor=FFFFFF&label=" alt="Lybrate-Clone" />
     </a>
-     <a href="https://github.com/suFi7867/chat-box" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Chat App&color=840010&logo=Signal&logoColor=FFFFFF&label=" alt="chatting-App" />
-    </a> -->
+      <a href="https://github.com/suFi7867/chat-box" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Chatting App&color=840010&logo=Signal&logoColor=FFFFFF&label=" alt="Translation-App" />
+    </a>
     <a href="https://github.com/monumarquis/unequaled-stream-376" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mail-Chimp Clone&color=1a78f4&logo=facebook&logoColor=FFFFFF&label=" alt="Mail-Chimp Clone"/>
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mail-Chimp Clone&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Mini-Store" />
     </a>
-    
-     <a href="https://github.com/monumarquis/mine-youtube" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mini-Youtube&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Mine-youtubr" />
+    <a href="https://github.com/monumarquis/mine-youtube" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mine-Youtube&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Weather-App" />
     </a>
-    <a href="https://github.com/shivshankar0965/dusty-jewel-3645" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Booking Store-Clone&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Mini-Store" />
-    </a>
-    <a href="https://github.com/monumarquis/fabbag-Clone" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=fabbag-Clone&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="fabbag-Clone" />
+    <a href="https://github.com/shivshankar0965/booking-clone" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Booking-Store Clone&color=7A1FA2&logo=foodpanda&logoColor=FFFFFF&label=" alt="Adidas-Clone" />
     </a>
 </p>
 <br>
-
-
-  
-    
-   <!---  <a href="https://github.com/m-sehrawat/Lybrate-Website-Clone-Version-2.0" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lybrate Clone&color=E60012&logo=stadia&logoColor=FFFFFF&label=" alt="Lybrate-Clone" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Adidas-Clone" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adidas Clone&color=000000&logo=Adidas&logoColor=FFFFFF&label=" alt="Adidas-Clone" />
-    </a> -->
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
 <h2><i>Let's Connect</i></h2>
@@ -147,8 +132,8 @@
 <h2><i>My GitHub Stats</i></h2>
 
 <p align="center" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monumarquis&layout=compact&show_icons=true&theme=radical" alt="monumarquis" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=monumarquis&show_icons=true&theme=radical" alt="monumarquis" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monumarquis&layout=compact&show_icons=true&theme=radical" alt="monumarquis" height="179" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=monumarquis&show_icons=true&theme=radical" alt="monumarquis" height="179" />
 </p>
 <br>
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monumarquis&show_icons=true&locale=en&theme=radical" alt="monumarquis" /></p>
