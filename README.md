@@ -132,8 +132,8 @@
 <h2><i>My GitHub Stats</i></h2>
 
 <p align="center" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monumarquis&layout=compact&show_icons=true&theme=radical" alt="monumarquis" height="179" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=monumarquis&show_icons=true&theme=radical" alt="monumarquis" height="179" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monumarquis&layout=compact&show_icons=true&theme=radical" alt="monumarquis" height="169" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=monumarquis&show_icons=true&theme=radical" alt="monumarquis" height="169" />
 </p>
 <br>
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monumarquis&show_icons=true&locale=en&theme=radical" alt="monumarquis" /></p>
