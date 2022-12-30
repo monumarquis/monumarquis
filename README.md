@@ -93,7 +93,7 @@
       <a href="https://github.com/suFi7867/chat-box" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Chatting App&color=840010&logo=Signal&logoColor=FFFFFF&label=" alt="Translation-App" />
     </a>
-    <a href="https://github.com/monumarquis/unequaled-stream-376" target="blank">
+    <a href="https://github.com/monumarquis/MailChimp-Store" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mail-Chimp Clone&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Mini-Store" />
     </a>
     <a href="https://github.com/monumarquis/mine-youtube" target="blank">
@@ -154,8 +154,8 @@
     <a href="https://github.com/suFi7867/chat-box">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suFi7867&repo=chat-box&border_radius=0&theme=radical" alt="m-sehrawat" />
     </a>
-     <a href="https://github.com/monumarquis/emailChimp-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monumarquis&repo=emailChimp-Clone&border_radius=0&theme=radical" alt="monumarquis" />
+     <a href="https://github.com/monumarquis/MailChimp-Store">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monumarquis&repo=MailChimp-Store&border_radius=0&theme=radical" alt="monumarquis" />
     </a>
        <a href="https://github.com/monumarquis/mine-youtube">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monumarquis&repo=mine-youtube&border_radius=0&theme=radical" alt="monumarquis" />
