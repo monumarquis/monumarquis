@@ -7,14 +7,14 @@
     <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
 </h1>
 <h3>
-    <i>- >A passionate frontend developer from India.I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code</i>
+    <i>A passionate frontend developer from India.I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code</i>
 </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monumarquis&label=Profile%20views&color=0e75b6&style=flat" alt="shubhojeet1" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhojeet1" alt="shubhojeet1" /></a> </p> -->
-
+<h1><a href="https://monumarquis.github.io/">Portfolio</a></h1>
 - 🔭 I’m currently working on **Google Authentication**
 
 - 🌱 I’m currently learning **MERN Stack**
@@ -25,7 +25,6 @@
 
 - 📫 How to reach me **monumarquis@gmail.com**
 - <h2><a href="https://drive.google.com/uc?export=download&id=18Pxv_xnL2onLThvIK8ofNl5vKKuN1DND">📜 Download_Resume</a></h2>
-
 
 
 <!----------------------------------- About Section ------------------------------------>
@@ -88,30 +87,33 @@
 
 
 <p align="left">
-     <a href="https://github.com/monumarquis/emailChimp-Clone" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Store App&color=840010&logo=Signal&logoColor=FFFFFF&label=" alt="Translation-App" />
+       
+<!--     <a href="https://github.com/suFi7867/gym.com" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GYM.com&color=7A1FA2&logo=foodpanda&logoColor=FFFFFF&label=" alt="gym.com" />
     </a>
-     <a href="https://github.com/monumarquis/fabbag-Clone" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=fabbag-Clone&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="fabbag-Clone" />
+     <a href="https://github.com/suFi7867/chat-box" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Chat App&color=840010&logo=Signal&logoColor=FFFFFF&label=" alt="chatting-App" />
+    </a> -->
+    <a href="https://github.com/monumarquis/unequaled-stream-376" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mail-Chimp Clone&color=1a78f4&logo=facebook&logoColor=FFFFFF&label=" alt="Mail-Chimp Clone"/>
     </a>
+    
      <a href="https://github.com/monumarquis/mine-youtube" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mini-Youtube&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Weather-App" />
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mini-Youtube&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Mine-youtubr" />
     </a>
     <a href="https://github.com/shivshankar0965/dusty-jewel-3645" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Booking Store-Clone&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Mini-Store" />
+    </a>
+    <a href="https://github.com/monumarquis/fabbag-Clone" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=fabbag-Clone&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="fabbag-Clone" />
     </a>
 </p>
 <br>
 
 
- <!---
-    <a href="https://github.com/m-sehrawat/Facebook-Clone" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook Cone&color=1a78f4&logo=facebook&logoColor=FFFFFF&label=" alt="Facebook-Clone" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Food-Store" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Food Store&color=7A1FA2&logo=foodpanda&logoColor=FFFFFF&label=" alt="Adidas-Clone" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Lybrate-Website-Clone-Version-2.0" target="blank">
+  
+    
+   <!---  <a href="https://github.com/m-sehrawat/Lybrate-Website-Clone-Version-2.0" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lybrate Clone&color=E60012&logo=stadia&logoColor=FFFFFF&label=" alt="Lybrate-Clone" />
     </a>
     <a href="https://github.com/m-sehrawat/Adidas-Clone" target="blank">
@@ -144,12 +146,12 @@
 
 <h2><i>My GitHub Stats</i></h2>
 
-<p>
+<p align="center" >
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monumarquis&layout=compact&show_icons=true&theme=radical" alt="monumarquis" height="139" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=monumarquis&show_icons=true&theme=radical" alt="monumarquis" height="139" />
 </p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monumarquis&show_icons=true&locale=en&theme=radical" alt="monumarquis" /></p>
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monumarquis&show_icons=true&locale=en&theme=radical" alt="monumarquis" /></p>
 <a href="http://www.github.com/monumarquis">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=monumarquis&point=f007d8&line=f0cd07&area_color=310938&theme=react-dark" alt="GitHub Commits Graph" />
 </a>
@@ -161,30 +163,26 @@
 
 
 <p>
-    <a href="https://github.com/monumarquis/Fabbag-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monumarquis&repo=Fabbag-Clone&border_radius=0&theme=radical" alt="monumarquis" />
+    <a href="https://github.com/suFi7867/gym.com">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suFi7867&repo=gym.com&border_radius=0&theme=radical" alt="m-sehrawat" />
     </a>
-    <a href="https://github.com/shivshankar0965/dusty-jewel-3645">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shivshankar0965&repo=dusty-jewel-3645&border_radius=0&theme=radical" alt="monumarquis" />
-    </a>
-    <a href="https://github.com/monumarquis/mine-youtube">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monumarquis&repo=mine-youtube&border_radius=0&theme=radical" alt="monumarquis" />
+    <a href="https://github.com/suFi7867/chat-box">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suFi7867&repo=chat-box&border_radius=0&theme=radical" alt="m-sehrawat" />
     </a>
      <a href="https://github.com/monumarquis/emailChimp-Clone">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monumarquis&repo=emailChimp-Clone&border_radius=0&theme=radical" alt="monumarquis" />
     </a>
-  
-<!--      <a href="https://github.com/m-sehrawat/Facebook-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Facebook-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+       <a href="https://github.com/monumarquis/mine-youtube">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monumarquis&repo=mine-youtube&border_radius=0&theme=radical" alt="monumarquis" />
+           </a>
+    <a href="https://github.com/shivshankar0965/dusty-jewel-3645">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shivshankar0965&repo=dusty-jewel-3645&border_radius=0&theme=radical" alt="monumarquis" />
     </a>
-    <a href="https://github.com/m-sehrawat/Lybrate-Website-Clone-Version-2.0">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Lybrate-Website-Clone-Version-2.0&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+      <a href="https://github.com/monumarquis/Fabbag-Clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monumarquis&repo=Fabbag-Clone&border_radius=0&theme=radical" alt="monumarquis" />
     </a>
-    <a href="https://github.com/m-sehrawat/Food-Store">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Food-Store&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Adidas-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Adidas-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a> -->
+    
+    
+ 
     
 </p>
