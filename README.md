@@ -6,25 +6,36 @@
     I'm Monu Yadav
     <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
 </h1>
+<!----------------------------------- Profile View Section ------------------------------------>
+
+<p align="left">
+    <a href="https://github.com/monumarquis">
+        <img src="https://komarev.com/ghpvc/?username=NazmusSayad&label=Profile%20views&color=0e75b6&style=flat" alt="m-yadav" />
+    </a>
+    <a href="https://github.com/monumarquis?tab=followers">
+        <img src="https://img.shields.io/github/followers/monumarquis?label=Followers&style=social" alt="followers-count">
+    </a>
+</p>
 <h3>
     <i>A passionate frontend developer from India.I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code</i>
 </h3>
+
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=monumarquis&label=Profile%20views&color=0e75b6&style=flat" alt="shubhojeet1" /> </p>
+
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhojeet1" alt="shubhojeet1" /></a> </p> -->
-<h1><a href="https://monumarquis.github.io/">Portfolio</a></h1>
+<h1><a href="https://monumarquis.github.io/"> 👨‍💻 Portfolio</a></h1>
+
 - 🔭 I’m currently working on **Google Authentication**
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 Portfolio [https://monumarquis.github.io/](https://shubhojeet1.github.io)
-
 - 💬 Ask me about **HTML, Advance CSS, VanillaJS, ReactJs**
 
 - 📫 How to reach me **monumarquis@gmail.com**
-- <h2><a href="https://drive.google.com/uc?export=download&id=18Pxv_xnL2onLThvIK8ofNl5vKKuN1DND">📜 Download_Resume</a></h2>
+- <h2><a href="https://drive.google.com/uc?export=download&id=18Pxv_xnL2onLThvIK8ofNl5vKKuN1DND">📜 Download Resume</a></h2>
 
 
 <!----------------------------------- About Section ------------------------------------>
@@ -37,17 +48,7 @@
 
 
 
-<!----------------------------------- Profile View Section ------------------------------------>
 
-<p align="left">
-    <a href="https://github.com/monumarquis">
-        <img src="https://komarev.com/ghpvc/?username=monumarquis&label=Profile%20views&color=0e75b6&style=flat" alt="m-yadav" />
-    </a>
-    <a href="https://github.com/monumarquis?tab=followers">
-        <img src="https://img.shields.io/github/followers/monumarquis?label=Followers&style=social" alt="followers-count">
-    </a>
-</p>
-<br>
 
 
 
@@ -132,11 +133,11 @@
 <h2><i>My GitHub Stats</i></h2>
 
 <p align="center" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monumarquis&layout=compact&show_icons=true&theme=radical" alt="monumarquis" height="169" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=monumarquis&show_icons=true&theme=radical" alt="monumarquis" height="169" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monumarquis&layout=compact&show_icons=true&theme=radical" alt="monumarquis" height="159" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=monumarquis&show_icons=true&theme=radical" alt="monumarquis" height="159" />
 </p>
 <br>
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monumarquis&show_icons=true&locale=en&theme=radical" alt="monumarquis" /></p>
+<p align="center" ><img align="center"  height="159" src="https://github-readme-streak-stats.herokuapp.com/?user=monumarquis&show_icons=true&locale=en&theme=radical" alt="monumarquis" /></p>
 <a href="http://www.github.com/monumarquis">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=monumarquis&point=f007d8&line=f0cd07&area_color=310938&theme=react-dark" alt="GitHub Commits Graph" />
 </a>
