@@ -88,6 +88,9 @@
 
 
 <p align="left">
+     <a href="https://github.com/monumarquis/Instagram_Clone" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram-Clone&color=E60012&logo=stadia&logoColor=FFFFFF&label=" alt="Instagram-Clone" />
+    </a>
      <a href="https://github.com/suFi7867/gym.com" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GYM-Store&color=E60012&logo=stadia&logoColor=FFFFFF&label=" alt="Lybrate-Clone" />
     </a>
@@ -149,11 +152,14 @@
 
 
 <p>
+    <a href="https://github.com/monumarquis/Instagram_Clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monumarquis&repo=Instagram_Clone&border_radius=0&theme=radical" alt="m-Yadav" />
+    </a>
     <a href="https://github.com/suFi7867/gym.com">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suFi7867&repo=gym.com&border_radius=0&theme=radical" alt="m-sehrawat" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suFi7867&repo=gym.com&border_radius=0&theme=radical" alt="m-yadav" />
     </a>
     <a href="https://github.com/suFi7867/chat-box">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suFi7867&repo=chat-box&border_radius=0&theme=radical" alt="m-sehrawat" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suFi7867&repo=chat-box&border_radius=0&theme=radical" alt="m-yadav" />
     </a>
      <a href="https://github.com/monumarquis/MailChimp-Store">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monumarquis&repo=MailChimp-Store&border_radius=0&theme=radical" alt="monumarquis" />
@@ -167,8 +173,5 @@
       <a href="https://github.com/monumarquis/Fabbag-Clone">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monumarquis&repo=Fabbag-Clone&border_radius=0&theme=radical" alt="monumarquis" />
     </a>
-    
-    
- 
     
 </p>
