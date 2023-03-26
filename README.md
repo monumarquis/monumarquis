@@ -97,6 +97,9 @@
       <a href="https://github.com/suFi7867/chat-box" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Chatting App&color=840010&logo=Signal&logoColor=FFFFFF&label=" alt="Translation-App" />
     </a>
+     <a href="https://github.com/monumarquis/Task-Planner" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Task-Planner&color=840010&logo=Signal&logoColor=FFFFFF&label=" alt="Translation-App" />
+    </a>
     <a href="https://github.com/monumarquis/MailChimp-Store" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mail-Chimp Clone&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Mini-Store" />
     </a>
@@ -160,6 +163,9 @@
     </a>
     <a href="https://github.com/suFi7867/chat-box">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suFi7867&repo=chat-box&border_radius=0&theme=radical" alt="m-yadav" />
+    </a>
+    <a href="https://github.com/monumarquis/Task-Planner">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monumarquis&repo=Task-Planner&border_radius=0&theme=radical" alt="m-yadav" />
     </a>
      <a href="https://github.com/monumarquis/MailChimp-Store">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monumarquis&repo=MailChimp-Store&border_radius=0&theme=radical" alt="monumarquis" />
